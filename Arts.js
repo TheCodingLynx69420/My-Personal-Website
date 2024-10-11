@@ -1,1 +1,1 @@
-alert("Open the images in new tab to see them in full resolution! thanks")
+alert("Unfortunately, I could not upload my Arts in the Github Repository because of big file size :(")
